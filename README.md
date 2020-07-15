@@ -25,7 +25,7 @@ A computer Science and Engineering Student at [Stamford University Bangladesh](h
 
 
 
-![](https://github-readme-stats.vercel.app/api?username=sohanr&show_icons=true&hide=["prs","issues","contribs"])
+<!--  ![](https://github-readme-stats.vercel.app/api?username=sohanr&show_icons=true&hide=["prs","issues","contribs"]) -->
 
 <!--
 **SohanR/SohanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...api
 - ⚡ Fun fact: ...
 -->
