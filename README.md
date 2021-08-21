@@ -4,6 +4,9 @@
 
 </h3>
 
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sohanr" alt="Sohan" /> </p>
+
+
 <h3 align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=A+developer+form+BANGLADESH;Software+Engineer;MERN+Stack+Developer+;Javascript+Enthusiast)](https://git.io/typing-svg)
