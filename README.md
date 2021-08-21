@@ -22,43 +22,14 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Sohan's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sohanr&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/></a> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-MizanurRahmanSohan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mizanurrahman/)](https://www.linkedin.com/in/mizanurrahman/) 
+<h3 align="center">
 
-[![MAIL Badge](https://img.shields.io/badge/-mizan.rahman66d@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mizan.rahman66d@gmail.com)](mailto:mizan.rahman66d@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-MizanurRahmanSohan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mizanurrahman/)](https://www.linkedin.com/in/mizanurrahman/) [![MAIL Badge](https://img.shields.io/badge/-sohanjs.bdd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohanjs.bd@gmail.com)](mailto:mizan.rahman66d@gmail.com)
 
-A computer Science and Engineering Student at [Stamford University Bangladesh](http://www.stamforduniversity.edu.bd/) and Developer from **Bangladesh** 🇧🇩
+</h3>
 
-## Language that i love :yellow_heart:
+<h3 align="center">
 
-<img src="https://raw.githubusercontent.com/SohanR/SohanR/master/img/js.png" width=60> 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31gc6dqehmxwphqvk5gwufpxasl4&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
-
-## weapons :gun:
-
-<img src="https://raw.githubusercontent.com/SohanR/SohanR/master/img/mdb.png" width=90 height=70> <img src="https://raw.githubusercontent.com/SohanR/SohanR/master/img/ex.png" width=90 height=70>  <img src="https://raw.githubusercontent.com/SohanR/SohanR/master/img/react.png" width=90 height=70> <img src="https://raw.githubusercontent.com/SohanR/SohanR/master/img/nodejs.png" width=100 height=80> 
-
-## Partenr :performing_arts:
-
-<img src="https://raw.githubusercontent.com/SohanR/SohanR/master/img/git.png" width=90 height=70><img src="https://raw.githubusercontent.com/SohanR/SohanR/master/img/github.png" width=90 height=70><img src="https://raw.githubusercontent.com/SohanR/SohanR/master/img/vscode.png" width=90 height=70>
-
-## My home :house:
-
-<img src="https://raw.githubusercontent.com/SohanR/SohanR/master/img/ubuntu.png" width=90 height=70>
-
-
-
-
-<!--
-**SohanR/SohanR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...api
-- ⚡ Fun fact: ...
--->
+</h3>
