@@ -24,7 +24,7 @@
 
 <h3 align="center">
 
-[![Linkedin Badge](https://img.shields.io/badge/-MizanurRahmanSohan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mizanurrahman/)](https://www.linkedin.com/in/mizanurrahman/) [![MAIL Badge](https://img.shields.io/badge/-sohanjs.bdd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohanjs.bd@gmail.com)](mailto:mizan.rahman66d@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-MizanurRahmanSohan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mizanurrahman/)](https://www.linkedin.com/in/mizanurrahman/) [![MAIL Badge](https://img.shields.io/badge/-sohanjs.bd@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:sohanjs.bd@gmail.com)](mailto:mizan.rahman66d@gmail.com)
 
 </h3>
 
