@@ -13,10 +13,15 @@
 <h3 align="center">
   Welcome to Sohan's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+  
 </h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sohanr" alt="Sohan" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sohanr" alt="Sohan" /> 
+
+ ![Metrics](https://metrics.lecoq.io/sohanr?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&notable=1&notable.repositories=false&config.timezone=Asia%2FDhaka)
+  
+</p>
+
 
 
 <h1 align="center">
