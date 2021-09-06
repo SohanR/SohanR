@@ -18,3 +18,4 @@ jobs:
           SHOW_PROJECTS: "True"
           SHOW_LINES_OF_CODE: "True"
           LOCALE: "en"
+          SHOW_PROFILE_VIEWS: "False"
