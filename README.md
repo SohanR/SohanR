@@ -94,11 +94,11 @@ SCSS                     2 repos             ░░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/novojitdas/Portfolio/issues/1) in [novojitdas/Portfolio](https://github.com/novojitdas/Portfolio)
-2. 🎉 Merged PR [#1](https://github.com/SohanR/Currency-Converter/pull/1) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
-3. 🎉 Merged PR [#2](https://github.com/SohanR/Currency-Converter/pull/2) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
-4. 🎉 Merged PR [#3](https://github.com/SohanR/Currency-Converter/pull/3) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
-5. 🎉 Merged PR [#4](https://github.com/SohanR/Currency-Converter/pull/4) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
+1. 💪 Opened PR [#1](https://github.com/sadanandpai/frontend-learning-kit/pull/1) in [sadanandpai/frontend-learning-kit](https://github.com/sadanandpai/frontend-learning-kit)
+2. ❗️ Opened issue [#1](https://github.com/novojitdas/Portfolio/issues/1) in [novojitdas/Portfolio](https://github.com/novojitdas/Portfolio)
+3. 🎉 Merged PR [#1](https://github.com/SohanR/Currency-Converter/pull/1) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
+4. 🎉 Merged PR [#2](https://github.com/SohanR/Currency-Converter/pull/2) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
+5. 🎉 Merged PR [#3](https://github.com/SohanR/Currency-Converter/pull/3) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
 <!--END_SECTION:activity-->
 
 
