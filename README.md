@@ -101,9 +101,9 @@ Liquid                   3 repos             █░░░░░░░░░░�
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#9468](https://github.com/facebook/create-react-app/issues/9468) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
-2. 🗣 Commented on [#881](https://github.com/PaulLeCam/react-leaflet/issues/881) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
-3. 🎉 Merged PR [#1](https://github.com/SohanR/Currency-Converter/pull/1) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
+1. 💪 Opened PR [#2](https://github.com/novojitdas/Dengue-Prevention-and-Cleaning-System/pull/2) in [novojitdas/Dengue-Prevention-and-Cleaning-System](https://github.com/novojitdas/Dengue-Prevention-and-Cleaning-System)
+2. 🗣 Commented on [#9468](https://github.com/facebook/create-react-app/issues/9468) in [facebook/create-react-app](https://github.com/facebook/create-react-app)
+3. 🗣 Commented on [#881](https://github.com/PaulLeCam/react-leaflet/issues/881) in [PaulLeCam/react-leaflet](https://github.com/PaulLeCam/react-leaflet)
 4. 🎉 Merged PR [#2](https://github.com/SohanR/Currency-Converter/pull/2) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
 5. 🎉 Merged PR [#3](https://github.com/SohanR/Currency-Converter/pull/3) in [SohanR/Currency-Converter](https://github.com/SohanR/Currency-Converter)
 <!--END_SECTION:activity-->
