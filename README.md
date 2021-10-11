@@ -64,31 +64,19 @@ Linux                    22 mins             ███████████�
 
 
 
-<h3 align="center">
-
-[![Sohan's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohanr&theme=tokyonight&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-</h3>
-
-
 <h1 align="center">
 
  <img src="https://github-readme-streak-stats.herokuapp.com?user=sohanr&theme=radical&hide_border=true" />
 
 </h1>  
  
- <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sohanr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
-
-
-
-<h3 align="center">
- 
-  ![Metrics](https://metrics.lecoq.io/sohanr?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&notable=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&notable.repositories=false&config.timezone=Asia%2FDhaka)
- 
-<h3>  
-
+ <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
   
+  <img alt="Sohan's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=sohanr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+  
+</a>
+
+
 <h3 align="center"
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=sohanr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
