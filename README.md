@@ -78,11 +78,6 @@ Linux                    34 mins             ███████████�
 </a>
 
 
-<h3 align="center"
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sohanr&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
-
-<h3>
 
 <h3 align="center">
 
