@@ -37,14 +37,13 @@
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-CSS                      7 mins              ████████████████░░░░░░░░░   64.66% 
-JavaScript               4 mins              ████████░░░░░░░░░░░░░░░░░   35.34%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    12 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
