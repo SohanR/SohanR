@@ -17,6 +17,8 @@
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%2019%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written--3%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -37,18 +39,20 @@
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 6 mins        ████████████████████░░░░░   83.0% 
+SCSS                     20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.59% 
+CSS                      5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.41%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 32 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 32 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 23/01/2022 18:34:05 UTC
+ Last Updated on 23/01/2022 19:48:49 UTC
 <!--END_SECTION:waka-->
 
 
