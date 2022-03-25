@@ -37,19 +37,18 @@
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-JavaScript               30 mins             ███████████████████░░░░░░   75.99% 
-JSON                     9 mins              ██████░░░░░░░░░░░░░░░░░░░   24.01%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Linux                    40 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 23/03/2022 01:17:19 UTC
+ Last Updated on 25/03/2022 01:13:31 UTC
 <!--END_SECTION:waka-->
 
 
