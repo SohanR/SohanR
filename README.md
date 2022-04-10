@@ -21,13 +21,13 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 214 Contributions in the Year 2022
+> 🏆 241 Contributions in the Year 2022
  > 
-> 📦 225.1 kB Used in GitHub's Storage 
+> 📦 225.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 68 Public Repositories 
+> 📜 69 Public Repositories 
  > 
 > 🔑 9 Private Repositories  
  > 
@@ -37,18 +37,22 @@
 ⌚︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               2 hrs 16 mins       █████████████████████░░░░   86.07% 
+JSON                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   10.52% 
+HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   2.85% 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.32% 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.11%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  2 hrs 38 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Linux                    2 hrs 38 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 06/04/2022 01:12:14 UTC
+ Last Updated on 10/04/2022 01:18:41 UTC
 <!--END_SECTION:waka-->
 
 
